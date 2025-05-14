@@ -69,16 +69,15 @@ The dashboard consists of three main sections:
 
 ## 📷 Dashboard Previews
 
-> Replace the image paths with your uploaded screenshot paths inside the GitHub repo (e.g., in a `screenshots/` folder)
 
 ### 🏠 Home Dashboard
-![Home Dashboard]("C:\Users\Rushik\Pictures\Screenshots\banking.png")
+![Home Dashboard](C:\Users\Rushik\Pictures\Screenshots\banking.png)
 
 ### 📈 Loan Analysis
-![Loan Analysis]("C:\Users\Rushik\Pictures\Screenshots\loan_analysis.png")
+![Loan Analysis](C:\Users\Rushik\Pictures\Screenshots\loan_analysis.png)
 
 ### 💵 Deposit Analysis
-![Deposit Analysis]("C:\Users\Rushik\Pictures\Screenshots\deposit_analysis.png")
+![Deposit Analysis](C:\Users\Rushik\Pictures\Screenshots\deposit_analysis.png)
 
 ---
 
